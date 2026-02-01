@@ -1,0 +1,44 @@
+body{
+font-family:Arial, Helvetica, sans-serif;
+background:#f4f ;
+font-size:large;
+font-weight: 700;
+}
+
+.a{
+    background-color: orange;
+    max-width: 800px;
+    margin: 20px 30px;
+    padding: 20px 20px;
+    border-radius: 20px;
+}
+
+h1{
+    text-align:center;
+    color:blue;
+}
+.r{
+    margin-top: 20px;
+}
+input[type"date"]{
+    width:100%
+    padding:60px
+}
+
+button{
+    margin-top: 20px;
+    width: 70%;
+    background-color: aquamarine;
+    border-radius: 10px;
+    cursor:grabbing;
+}
+button:hover{
+    background-color: blue;
+}
+#e{
+    margin-top: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+
