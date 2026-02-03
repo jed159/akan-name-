@@ -31,7 +31,6 @@ The application takes the user's date of birth and gender as input, validates th
 5. Click **Generate Akan Name** to view the result  
 
 ## Live Site
-👉 https://jed159.github.io/akan-name-/
 
 ## License
 MIT License
